@@ -1,0 +1,32 @@
+==============Transcribed Text==============
+From
+To
+Growtham Balagutarmani
+Manchester - MI 3BS.
+The Bank Manager,
+Halifax Bank,
+Monchester,
+Sub: Experienced issue during cash deposit
+I was trying to deposit the Cash in the cash
+deposit machine two days back and the machine was showing.
+incorrect amount which was not matched with the amount I intended
+to depon't. The I experience this issue more frequently.
+kindly prioritize to look into it as fear as possible rather
+then later.
+Thank you.
+Regards,
+Gouths
+==============Sentiment Score==============
+Score: -0.20000000298023224
+==============Complaint Label==============
+```
+Account Related 
+```
+==============Complaint Insight==============
+Name: Gouths
+Date: Two days back
+Time: Not available
+Address: Manchester - MI 3BS.
+Account number: Not available
+Card number: Not available 
+

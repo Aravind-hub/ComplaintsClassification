@@ -1,0 +1,37 @@
+==============Transcribed Text==============
+FROM,
+SONAMUTHA
+VIVEKANANDA STREET,
+DUBAI MAIN ROAD
+DUBAI
+To,
+786] Jesus
+BRANCH MANAGER SIMRAN
+ACTON VILLE MUTTU SAMOHU
+THERKU MADA VEEDHI
+MAN CHESTER MI 3HO
+SUB :- Request to grant a public loan for One Crove Pounds
+Respected Madam,
+Gnd
+I'm an account holder at your branch since 1947
+your bract since 1947
+Crove
+you can see I'm an very decent customer without having any
+negative credit. I have applied for a loan of one crie
+Pounds and its been 11 months from the day I proposed my
+loon request and ever since no response. Jam really
+frustated and depresed since I didn't get any response.
+You are my neighbour and I have shared all ory Curry and
+==============Sentiment Score==============
+Score: -0.20000000298023224
+==============Complaint Label==============
+
+Loan Related
+==============Complaint Insight==============
+
+The name of the person is Sonamuthu.
+The date is not available.
+The time is not available.
+The address is Vivekananda Street, Dubai Main Road, Dubai.
+The account number is not available.
+The card number is not available.

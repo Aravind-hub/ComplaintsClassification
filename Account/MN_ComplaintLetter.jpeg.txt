@@ -1,0 +1,49 @@
+==============Transcribed Text==============
+Complaint hetter
+To
+Manchester,
+Customer Complaints Team,
+30/3/2023
+House no: 65, Street 1253,
+Manchester
+WALL 7YZ.
+Sub: Delay in receiving debit Card
+I am an account holder
+Since last 6 years and my
+in your bank
+account number is
+123456. and Sort Code 00-11-22. I had
+applied for issuing of a debit Card
+but have not received yet. I was informed
+at the time at the time of request, that
+Debit Card would issued in 15 working days
+but I have not received anything till now.
+I have called customer Service Couple
+of times but there is no card and me
+request hasn't been fulfilled yet. If
+really regret and switching my account
+an another bank due to frustration
+what I have faced.
+to
+I am really disappointed with your
+Sevices
+Thanks
+Madhu Nuche rla.
+==============Sentiment Score==============
+Score: -0.6000000238418579
+==============Complaint Label==============
+Account Related
+==============Complaint Insight==============
+## Information extracted from the complaint letter:
+
+* **Date:** 30/3/2023
+* **Address:** House no: 65, Street 1253, Manchester, WALL 7YZ.
+* **Account number:** 123456
+* **Sort Code:** 00-11-22 
+* **Name:** Madhu Nuche rla (assuming this is the name based on the closing) 
+ 
+**Information not available:**
+
+* **Card number:** Not mentioned in the text. 
+* **Time:** Not mentioned in the text. 
+

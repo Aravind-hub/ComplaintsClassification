@@ -1,0 +1,29 @@
+==============Transcribed Text==============
+TO
+28/03/2023
+Bank Manager.
+Sale
+From.
+KRISHNAN A
+Sale
+Dear Sin
+I am disappointed with
+- the Service.
+Raise a complaint
+Angrily.
+Koist
+==============Sentiment Score==============
+Score: -0.20000000298023224
+==============Complaint Label==============
+## Account Related 
+
+The content of the email discusses a complaint about service, which is a common issue related to accounts. 
+
+==============Complaint Insight==============
+Here is what I found:
+* **date:** 28/03/2023 
+* **name:** Krishnan A 
+
+I could not find 'time', 'address', 'account number', or 'card number' in the provided text. 
+
+Please let me know if there is anything else I can help you with.

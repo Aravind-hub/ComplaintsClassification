@@ -1,0 +1,34 @@
+==============Transcribed Text==============
+To
+FROM,
+SUB
+UB:
+Alagappar
+Manchester
+Lagappan. MR
+gevang
+Lloyds
+Naples Barking group
+Ranchester
+Sue: Account Qvery
+additional account in Couple along with some
+benefits. Do we have I
+I would like to oper
+ay akt
+inary options
+Se
+suity such info ortie J
+an
+options as I'm not
+MR
+==============Sentiment Score==============
+Score: -0.10000000149011612
+==============Complaint Label==============
+'Other Labels'
+==============Complaint Insight==============
+Name: Alagappar
+Date: N/A 
+Time: N/A
+Address: Manchester
+Account Number: Account Qvery 
+Card Number: N/A

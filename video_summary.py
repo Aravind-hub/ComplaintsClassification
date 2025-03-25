@@ -3,7 +3,7 @@ import os
 from vertexai.generative_models import GenerativeModel, Part
 import vertexai.preview.generative_models as generative_models
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'ServiceAccountCreds2.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'ServiceAccountCred2.json'
 
 
 def generate():

@@ -8,7 +8,7 @@ from google.cloud import language_v1
 from google.cloud import storage
 from vertexai.preview.language_models import TextGenerationModel
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'ServiceAccountCreds.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'ServiceAccountCred2.json'
 bucket_name = "mail_classification_bucket"
 langClient = language_v1.LanguageServiceClient()
 project_id = "arcane-grin-424609-b5"
@@ -84,6 +84,7 @@ for blob in blob_object:
         output_blob.upload_from_string(text_file.getvalue())
         text_file.close()
 
+print(label_dict)
 keys = list(label_dict.keys())
 values = list(label_dict.values())
 plt.bar(keys, values)
